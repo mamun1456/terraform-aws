@@ -1,0 +1,5 @@
+.terraform.lock.hcl
+.terraform/
+terraform.tfstate
+../git_key
+../git_key.pub
