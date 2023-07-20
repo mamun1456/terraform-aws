@@ -1,10 +1,10 @@
-variable "region" {}
+# variable "region" {}
 
-variable "availability_zones" {}
+# variable "availability_zones" {}
 
 variable "env" {}
 
-variable "instance_type" {}
+# variable "instance_type" {}
 
 variable "vpc_cidr" {}
 
