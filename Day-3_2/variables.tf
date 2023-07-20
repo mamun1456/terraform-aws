@@ -1,3 +1,7 @@
+
+
+variable "env" {}
+
 variable "region" {}
 
 variable "availability_zones" {}
